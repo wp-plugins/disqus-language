@@ -1,9 +1,9 @@
 === Disqus Language ===
 Contributors: nabil_kadimi
 Tags: disqus,language
-Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 4.3
+Requires at least: 3.1
+Tested up to: 4.0
+Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,7 +11,7 @@ Tell the plugin "Disqus Comment System" to use the site language.
 
 == Description ==
 
-**Disqus Language** tells the Disqus Comment System to use the site language instead of the default English. This is a very simple plugin, no configuration required.
+**Disqus Language** tells the **Disqus Comment System** plugin to use the site language instead of the default English. This is a very simple plugin, no configuration required.
 
 == Installation ==
 
