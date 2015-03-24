@@ -4,7 +4,7 @@
 Plugin Name: Disqus language
 Plugin URI: http://www.kadimi.com/en
 Description: Tell the plugin "Disqus Comment System" to use the site language.
-Version: 0.1
+Version: 0.2
 Author: Nabil Kadimi
 Author Email: nabil@kadimi.com
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
